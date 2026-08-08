@@ -40,7 +40,7 @@ crud/
     ├── std.html
     └── success.html
 
-# ⚙️ How to Run
+->How to Run
 1. Clone the repository
 git clone https://github.com/Sadvika-ai-cloud/std-db.git
 2. Go to the project folder
@@ -59,7 +59,7 @@ Usually Flask will show a local address such as:
 http://127.0.0.1:5000/
 Open that address in your browser.
 
-# 🗄️ Database
+🗄️ Database
 
 This project uses SQLite to store student information. The database file is:
 database.db
@@ -74,7 +74,7 @@ SQLite database connectivity
 HTML templates
 Python backend development
 
-# 👩‍💻 Author
+ 👩‍💻 Author
 
 Sadvika Y
 
